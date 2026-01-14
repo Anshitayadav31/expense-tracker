@@ -39,9 +39,6 @@ This project features a simple, user-friendly expense tracker implemented with:
 Feel free to fork the repository and submit pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
 
-## Contact
-
-For any questions or feedback, please contact [Hustler004](agamagarwal004@gmail.com).
 
 ---
 
